@@ -6,7 +6,7 @@ Inaction Is the Root of All Evil
 
 Studying, exam prep, and even pivoting into a new career path sound like giant, looming chores. Not because they’re impossible, but because they’re “boring,” “hard,” or “uncertain.”
 
-But here’s the truth: inaction – not failure – is the real villain.
+Inaction, not failure, is the real villain.
 
 If you want different results, you must act differently. And the “boring” stuff? That’s the foundation of excellence.
 
@@ -38,7 +38,7 @@ Build a distraction-free space.
 
 Schedule your “boring” tasks into your calendar.
 
-Not _someday_ – **today!**
+Not _someday:_ **today!**
 
 ## 3. Find Your Why
 -----------------
@@ -47,7 +47,7 @@ You’re not studying just to pass.
 
 You’re studying to unlock a new level of freedom.
 
-You’re not switching careers just because – it’s because you want better pay, purpose, or peace.
+You’re not switching careers just because, it’s because you want better pay, purpose, or peace.
 
 **Keep your “why” in front of you.**
 
@@ -58,9 +58,7 @@ Look at it daily.
 ## 4. Momentum Is a Muscle
 ------------------------
 
-Start small.
-
-A 10-minute study session.
+Start with a 10-minute study session.
 
 One job application.
 
@@ -70,8 +68,8 @@ Action creates momentum.
 
 Motivation is unreliable, but momentum? That’s magic. _Once you’re moving, you’re unstoppable._
 
-## 5. Failure Isn’t Boring – It’s Feedback
-----------------------------------------
+## 5. Failure Isn’t Boring, It’s Feedback
+---------------------------------------
 
 [Not passing? It’s not the end](https://medium.com/five-common-reasons-why-you-keep-failing-your-exams-75898e542282). It’s a data point.
 
@@ -82,7 +80,7 @@ Powerful is facing it.
 ## 6. Silence the Myth of “Too Late”
 ----------------------------------
 
-Thinking of switching careers at 30, 40, or 50? You’re not too late. You’re just early – early to your next chapter.
+Thinking of switching careers at 30, 40, or 50? You’re not too late. You’re just early to your next chapter.
 
 Don’t let fear of being a beginner again stop you from becoming the expert you were meant to be.
 
@@ -105,12 +103,12 @@ Read long articles.
 
 Listen to deep podcasts.
 
-Do the things that don’t give instant reward – but lead to real transformation.
+Do the things that don’t give instant reward but also lead to real transformation.
 
 Boring Is a Lie
 ---------------
 
-The so-called “boring” parts of life – studying, skill-building, planning – those are the moments that build empires.
+The so-called “boring” parts of life: studying, skill-building, planning, those are the moments that build empires.
 
 Every dream you’ve had is buried in discipline.
 
