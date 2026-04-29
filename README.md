@@ -26,7 +26,7 @@ Cloud is where modern systems live. I write about cloud as both a platform and a
 - what “cloud-native” really means beyond buzzwords
 
 ### Artificial Intelligence
-AI is already changing how we write, build, search, and decide. I’m optimistic—but not uncritical. I write about:
+AI is already changing how we write, build, search, and decide. I’m optimistic, but not uncritical. I write about:
 - using AI as a multiplier for learning and productivity
 - limits: hallucinations, evaluation, bias, and over-automation
 - the importance of understanding systems, not just prompts
@@ -34,7 +34,7 @@ AI is already changing how we write, build, search, and decide. I’m optimistic
 ## Why This Exists
 I write to think.
 
-Posts here are not meant to be perfect, final, or universally correct—just honest snapshots of what I believe right now, based on what I’ve seen, built, and learned. If my perspective changes later, that’s the point.
+Posts here are not meant to be perfect, final, or universally correct...just honest snapshots of what I believe right now, based on what I’ve seen, built, and learned. If my perspective changes later, that’s the point.
 
 ## How to Use This Repo (If Applicable)
 - Read posts in chronological order to follow the evolution of my thinking, or
