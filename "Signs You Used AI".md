@@ -161,7 +161,7 @@ You can spend your time obsessing over whether someone used it, or you can figur
 
 **Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
 <br>
-**Article Link:** ["Signs You Used AI"]()
+**Article Link:** ["Signs You Used AI"](https://medium.com/@ntombizakhona/signs-you-used-ai-9f483bed6b63)
 <br>
 Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
 <br>
