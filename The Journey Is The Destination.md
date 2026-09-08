@@ -432,7 +432,7 @@ And that might be the most valuable skill of all.
 
 **Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
 <br>
-**Article Link:** [The Journey Is The Destination]([https://ntombizakhona.medium.com/ai-wont-always-be-in-the-room-so-speak-for-yourself-845bc99620db](https://ntombizakhona.medium.com/the-journey-is-the-destination-36cf69c35b95))
+**Article Link:** [The Journey Is The Destination]([https://ntombizakhona.medium.com/ai-wont-always-be-in-the-room-so-speak-for-yourself-845bc99620db](https://ntombizakhona.medium.com/the-journey-is-the-destination-36cf69c35b95)
 <br>
 Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
 <br>
